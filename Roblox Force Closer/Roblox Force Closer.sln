@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roblox Force Closer", "Roblox Force Closer\Roblox Force Closer.csproj", "{B0432AE2-71B6-464C-A9A4-1F9734EDB74D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0432AE2-71B6-464C-A9A4-1F9734EDB74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0432AE2-71B6-464C-A9A4-1F9734EDB74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0432AE2-71B6-464C-A9A4-1F9734EDB74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0432AE2-71B6-464C-A9A4-1F9734EDB74D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0CEFE36-ACC3-47CE-8003-E650E2F9FC0B}
+	EndGlobalSection
+EndGlobal

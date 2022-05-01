@@ -1,0 +1,19 @@
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\bin\Debug\net6.0-windows\Roblox Force Closer.exe
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\bin\Debug\net6.0-windows\Roblox Force Closer.deps.json
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\bin\Debug\net6.0-windows\Roblox Force Closer.runtimeconfig.json
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\bin\Debug\net6.0-windows\Roblox Force Closer.dll
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\bin\Debug\net6.0-windows\Roblox Force Closer.pdb
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.csproj.AssemblyReference.cache
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox_Force_Closer.Form1.resources
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.csproj.GenerateResource.cache
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.AssemblyInfoInputs.cache
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.AssemblyInfo.cs
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.csproj.CoreCompileInputs.cache
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.dll
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\refint\Roblox Force Closer.dll
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.pdb
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\Roblox Force Closer.genruntimeconfig.cache
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\obj\Debug\net6.0-windows\ref\Roblox Force Closer.dll
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\bin\Debug\net6.0-windows\closerblox.cmd
+C:\Users\liamm\source\repos\Roblox Force Closer\Roblox Force Closer\bin\Debug\net6.0-windows\closerbloxstudio.cmd
